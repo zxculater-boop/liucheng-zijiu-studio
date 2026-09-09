@@ -209,7 +209,6 @@ n8n：**Switch** 或多個 IF。
 - [ ] 用手機加好友，打「營業時間」有自動回  
 - [ ] 打「報價」有回＋Sheet 有列＋內部有通知  
 - [ ] 亂打其他字：回「已收到，稍後專人回覆」並可選建工單  
-- [ ] Webhook Verify 綠燈、Workflow Active  
 
 ### B9. 常見坑
 - Verify 失敗：URL 必須 HTTPS、節點要能秒回 200  
