@@ -1,6 +1,6 @@
 # 流程自救工作室｜生存變現資產庫
 
-用 AI + n8n／LINE，幫台灣中小企業砍掉重複人工。
+用 AI + n8n／LINE，幫台灣中小企業砍掉重複人工。  
 **收款方式：僅 PayPal**（不提供台灣銀行匯款帳號）。
 
 **倉庫：** https://github.com/zxculater-boop/liucheng-zijiu-studio
